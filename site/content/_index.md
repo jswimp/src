@@ -1,7 +1,7 @@
 ---
 title: Photos
 subtitle: Gallery
-image: /img/about-shade-grown.jpg
+image: /img/blog-chemex.jpg
 blurb:
   heading: ''
   text: ''
